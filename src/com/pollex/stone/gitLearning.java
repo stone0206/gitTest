@@ -4,7 +4,7 @@ public class gitLearning {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("try to use git");
+		System.out.println("try to");
 	}
 
 }
